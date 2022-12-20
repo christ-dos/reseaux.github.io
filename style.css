@@ -1,0 +1,35 @@
+.principale{
+    margin: auto;
+    border:2px solid #D2FCEF;
+    box-shadow: 5px 5px 15px 5px #D2FCEF;
+    border-radius: 5%;
+    width: 500px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+}
+img{
+
+    width: 100px;
+}
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+}
+a{
+    width: 100px;
+}
+h1{
+    text-align: center;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+.portfolio{
+    width: 200px;
+    margin-top: -54%;
+    margin-left: -38%;
+}
